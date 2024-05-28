@@ -1,4 +1,6 @@
 
+## ERD
+![ERD](Fintech-ERD.png)
 ## Installation
 
 ```bash
